@@ -2,6 +2,8 @@
 
 A cross-platform health tracking app for people who want to track their health, built with React Native and Expo.
 
+<img width="285" height="464" alt="image" src="https://github.com/user-attachments/assets/b0e4477c-5d7f-4ae8-b6e2-d611ac26ffd1" />
+
 ## Features
 
 - **Daily Check-In Logging**: Track symptoms, severity, sleep, stress, activity, food, medications, and triggers
@@ -17,6 +19,8 @@ A cross-platform health tracking app for people who want to track their health, 
 - **Backend**: Supabase (PostgreSQL, Auth, Edge Functions)
 - **AI**: OpenAI API for generating health insights
 - **Authentication**: Supabase Email/Password Auth
+
+<img width="284" height="474" alt="image" src="https://github.com/user-attachments/assets/da6326d1-d8a1-448d-bf2f-fa91f56ca800" />
 
 ## Project Structure
 
@@ -142,6 +146,8 @@ The function:
 3. Returns insights about patterns and potential triggers
 4. Caches results in the `ai_insights` table
 
+<img width="287" height="453" alt="image" src="https://github.com/user-attachments/assets/9670ff1f-c585-4273-8721-4615c6546b2a" />
+
 ## Key Features in Detail
 
 ### Daily Check-In
@@ -171,6 +177,8 @@ Shows at a glance:
 - Number of "flare days" (severity ≥ 7)
 - Recent logs summary
 - AI-generated insights with refresh capability
+
+<img width="290" height="484" alt="image" src="https://github.com/user-attachments/assets/b6c3b81d-570e-4f7f-9a69-fb2fdbbdf8cb" />
 
 ### History
 
@@ -210,13 +218,8 @@ Browse all past logs with:
 
 For issues or questions, please refer to the [Expo documentation](https://docs.expo.dev/) and [Supabase documentation](https://supabase.com/docs).
 
-<img width="285" height="464" alt="image" src="https://github.com/user-attachments/assets/b0e4477c-5d7f-4ae8-b6e2-d611ac26ffd1" />
 
-<img width="284" height="474" alt="image" src="https://github.com/user-attachments/assets/da6326d1-d8a1-448d-bf2f-fa91f56ca800" />
 
-<img width="290" height="484" alt="image" src="https://github.com/user-attachments/assets/b6c3b81d-570e-4f7f-9a69-fb2fdbbdf8cb" />
-
-<img width="287" height="453" alt="image" src="https://github.com/user-attachments/assets/9670ff1f-c585-4273-8721-4615c6546b2a" />
 
 
 
