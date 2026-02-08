@@ -228,9 +228,3 @@ Browse all past logs with:
 
 For issues or questions, please refer to the [Expo documentation](https://docs.expo.dev/) and [Supabase documentation](https://supabase.com/docs).
 
-
-
-
-
-
-
