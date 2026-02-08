@@ -185,7 +185,7 @@ Shows at a glance:
 - AI-generated insights with refresh capability
 
 <p align="center">
-<img width="290" height="484" alt="image" src="https://github.com/user-attachments/assets/b6c3b81d-570e-4f7f-9a69-fb2fdbbdf8cb" />
+<img width="302" height="485" alt="image" src="https://github.com/user-attachments/assets/42217854-f4de-4f16-b74c-948848a95a43" />
 </p>
 
 ### History
