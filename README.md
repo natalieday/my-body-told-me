@@ -2,6 +2,8 @@
 
 A cross-platform health tracking app for people who want to track their health, built with React Native and Expo.
 
+**Status:** Active personal project / prototype. Not a medical device and not intended for clinical use.
+
 <p align="center">
 <img width="285" height="464" alt="image" src="https://github.com/user-attachments/assets/b0e4477c-5d7f-4ae8-b6e2-d611ac26ffd1" />
 </p>
